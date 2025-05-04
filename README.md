@@ -1,6 +1,8 @@
 # Delta ADP-40VP Rev A
  This project is a reverse engineered version of the Delta ADP-40VP Rev A switching power supply. This power supply is used in many Dell PowerConnect network switches. This example came from a PowerConnect 2716. I created this project because two of these supplies had died within 2 years and I knew other people who had theirs fail and wanted to be able to troubleshoot the complex design.
 
+ Made using Kicad V8.
+
 # What's included
 Principly, a schematic and PCB layout with correct components. All connections are verified visually and by continutity. Some datasheets are included.
 
