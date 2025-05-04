@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "adp40vp")(type "KiCad")(uri "C:/Projects/Dell switch power supply/adp40vp/adp40vp_fp.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adp40vp")(type "KiCad")(uri "${KIPRJMOD}/adp40vp.kicad_sym")(options "")(descr ""))
+)
